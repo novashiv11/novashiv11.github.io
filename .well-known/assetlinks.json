@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.novaspack.app",
+      "sha256_cert_fingerprints": ["45:59:61:03:3A:81:F4:1A:4A:8D:B0:F4:35:13:78:1D:5F:E9:3B:CE:31:C2:6C:68:B1:71:C6:24:49:4F:9F:50"]
+    }
+  }
+]
